@@ -32,6 +32,11 @@
         <a href="tuto.13.php">ir al ejercicio.13</a>
         <h3>pedido</h3>
         <a href="tuto.14.php">ir al ejercicio.14</a>
+        <h3>pedido web</h3>
+        <a href="tuto.15.php">ir al ejercicio.15</a>
+        <h3>claves</h3>
+        <a href="tuto.16.php">ir al ejercicio.16</a>
+
     </ul>
         
     

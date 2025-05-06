@@ -1,0 +1,22 @@
+Nombre: carlos
+Dirección: xasfadf
+Cantidad Jamón y Queso: 12
+Cantidad Napolitana: 12
+Cantidad Mozarella: 32
+........................................
+Nombre: carlos
+Dirección: xasfadf
+Cantidad Napolitana: 1
+........................................
+Nombre: carlos
+Dirección: xasfadf
+Cantidad Napolitana: 1
+........................................
+Nombre: carlos
+Dirección: xasfadf
+Cantidad Napolitana: 1
+........................................
+Nombre: carlos
+Dirección: xasfadf
+Cantidad Napolitana: 1
+........................................

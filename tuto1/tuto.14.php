@@ -33,6 +33,9 @@
         <input type="checkbox" name="m" > Mozarella
         Cantidad
         <input type="number" name="cantidadM">
+        <br>
+        <br>
+        <input type="submit" value="Realizar Pedido">
     </form>
     
 </body>
